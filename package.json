@@ -19,6 +19,6 @@
     "lodash.merge": "4.6.2",
     "lodash.uniq": "^4.0.2",
     "next": "8",
-    "object.assign": "3"
+    "object.assign": "4"
   }
 }
