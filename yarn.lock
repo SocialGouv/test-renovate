@@ -2744,7 +2744,7 @@ lodash._basecreatewrapper@~2.4.1:
     lodash._slice "~2.4.1"
     lodash.isobject "~2.4.1"
 
-lodash._baseflatten@^4.0.0, lodash._baseflatten@~4.2.0:
+lodash._baseflatten@~4.2.0:
   version "4.2.1"
   resolved "https://registry.yarnpkg.com/lodash._baseflatten/-/lodash._baseflatten-4.2.1.tgz#54acad5e6ef53532a5b8269c0ad725470cfd9208"
   integrity sha1-VKytXm71NTKluCacCtclRwz9kgg=
@@ -2910,13 +2910,10 @@ lodash.bind@~2.4.1:
     lodash._createwrapper "~2.4.1"
     lodash._slice "~2.4.1"
 
-lodash.concat@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/lodash.concat/-/lodash.concat-4.0.0.tgz#6c732d7301ba686e9972c7eac78ab043bbec6673"
-  integrity sha1-bHMtcwG6aG6Zcsfqx4qwQ7vsZnM=
-  dependencies:
-    lodash._baseflatten "^4.0.0"
-    lodash.rest "^4.0.0"
+lodash.concat@^4.0.1:
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/lodash.concat/-/lodash.concat-4.5.0.tgz#b053ae02e4a8008582e7256b9d02bda6d0380395"
+  integrity sha1-sFOuAuSoAIWC5yVrnQK9ptA4A5U=
 
 lodash.createcallback@~2.4.1:
   version "2.4.4"
@@ -3051,11 +3048,6 @@ lodash.property@~2.4.1:
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/lodash.property/-/lodash.property-2.4.1.tgz#4049c0549daf5a7102bc5e93eeaebb379deb132f"
   integrity sha1-QEnAVJ2vWnECvF6T7q67N53rEy8=
-
-lodash.rest@^4.0.0:
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/lodash.rest/-/lodash.rest-4.0.5.tgz#954ef75049262038c96d1fc98b28fdaf9f0772aa"
-  integrity sha1-lU73UEkmIDjJbR/Jiyj9r58Hcqo=
 
 lodash.support@~2.3.0:
   version "2.3.0"
