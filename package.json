@@ -9,7 +9,7 @@
     "test": "echo YOLO"
   },
   "dependencies": {
-    "lodash.concat": "^4.0.1",
+    "lodash.concat": "^4.5.0",
     "lodash.debounce": "4.0.8",
     "lodash.drop": "^4.1.1",
     "lodash.first": "2",
